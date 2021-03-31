@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #121214;
+  color: #e1e1e6;
+  margin: 20px;
+  font: normal 14px Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+p {
+  color: #999;
+  margin: 4px 0;
+}
+
+a {
+  color: #8257e6;
+  margin-top: 8px;
+  display: block;
+}

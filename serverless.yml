@@ -1,0 +1,4 @@
+nextAwsApp:
+  component: "@sls-next/serverless-component"
+  inputs:
+    domain: ["next-aws", "fala.dev"] 

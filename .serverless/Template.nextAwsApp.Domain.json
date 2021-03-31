@@ -1,0 +1,13 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "fala.dev",
+  "subdomains": [
+    {
+      "domain": "next-aws.fala.dev",
+      "distributionId": "E12GY9YXDE7ZDU",
+      "url": "https://d33qmpd4dxvlfc.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ]
+}

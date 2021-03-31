@@ -1,0 +1,17 @@
+{
+  "name": "czsmiw-rp8zhw",
+  "hash": "NZ1MdC91z+qAT5M4BES/RnT+NDdqBvsIQT8QrJvp880=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/diegofernandes/www/youtube/next-aws/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::011801494293:role/czsmiw-hxp0ry9"
+  },
+  "arn": "arn:aws:lambda:us-east-1:011801494293:function:czsmiw-rp8zhw",
+  "region": "us-east-1"
+}
